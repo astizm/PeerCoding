@@ -1,6 +1,5 @@
 var numberOne = 50
-var numberTwo = 25
-console.log(numberOne + numberTwo)
+var numberTwo = 25 
 
 var sum = numberOne + numberTwo
 console.log( "sum = " + sum);
@@ -16,3 +15,5 @@ console.log( "rem =" + rem);
 
 var mul = numberOne * numberTwo
 console.log( "mul =" + mul);
+
+
