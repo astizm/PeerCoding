@@ -1,2 +1,2 @@
-# LabOne
+# PeerCoding
 peer-coding calculator
